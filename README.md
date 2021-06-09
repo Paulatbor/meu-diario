@@ -12,5 +12,5 @@ Nessa aula em em 05/06/2021 aprendi:
 
 ###### Bônus
 
-Criei uma imagem no cavas :happy:
+Criei uma imagem no cavas 💚
 
