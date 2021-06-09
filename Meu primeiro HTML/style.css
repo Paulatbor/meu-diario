@@ -9,8 +9,7 @@ body {
 .photo {
         border-radius: 50%;
         border: 5px solid green;
-        width: 100%
-        ;
+        width: 100%         ;
 }
 
 #title, .subtitle, .post_title {
