@@ -2,7 +2,7 @@
 
 Meu primeiro contado com HTML :D
 
-Nessa aula em em 05/06/2021 aprendi:
+Nessa aula aprendi:
 
 - html
 -  títulos e suas diferenças "h1 - h6" 
