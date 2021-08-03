@@ -1,6 +1,6 @@
 # Meu diário :book:
 
-Meu primeiro contado com HTML :D
+HTML
 
 Nessa aula aprendi:
 
